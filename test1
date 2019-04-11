@@ -1,0 +1,6 @@
+.mainview .flash {
+  background-color: Transparent;
+  font-family: arial serif;
+  font-size: 20px;
+  color: white;
+}
